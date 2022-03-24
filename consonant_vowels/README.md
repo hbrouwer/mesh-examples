@@ -1,4 +1,4 @@
-# Consonant-vowel dependencies (```ba dii guuu```)
+# Consonant-vowel dependencies (ba dii guuu)
 
 This example is taken from chapter 8 of:
 
