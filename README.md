@@ -3,18 +3,18 @@
 Example networks for the [Mesh](https://github.com/hbrouwer/mesh) neural network simulator:
 
 * [boolean_functions](https://github.com/hbrouwer/mesh-examples/tree/main/boolean_functions):
-  These examples are taken from chapter 3 of Plunkett and Elman (1997).
+  These examples are taken from chapter 3 of Plunkett and Elman (1997);
 
 * [reading_aloud](https://github.com/hbrouwer/mesh-examples/tree/main/reading_aloud):
   This example is implements the Reading Aloud network of Plaut et al.
-  (1996), as discussed in chapter 8 of McLeod et al. (1998).
+  (1996), as discussed in chapter 8 of McLeod et al. (1998);
     
 * [english_past_tense](https://github.com/hbrouwer/mesh-examples/tree/main/english_past_tense):
   This example is implements the English Past Tense network of Plunkett and
-  Marchman (1991), as discussed in chapter 9 of McLeod et al. (1998).
+  Marchman (1991), as discussed in chapter 9 of McLeod et al. (1998);
 
 * [consonant_vowels](https://github.com/hbrouwer/mesh-examples/tree/main/consonant_vowels):
-  This example is taken from chapter 8 of Plunkett and Elman (1997).
+  This example is taken from chapter 8 of Plunkett and Elman (1997);
 
 * [expectation_comprehension](https://github.com/hbrouwer/mesh-examples/tree/main/expectation_comprehension):
   This implements the surprisal model of Venhuizen et al. (2019).

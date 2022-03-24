@@ -1,3 +1,5 @@
+# Reading aloud
+
 This example is implements the Reading Aloud network of Plaut et al. (1996),
 as discussed in chapter 8 of:
 

@@ -1,3 +1,5 @@
+# Expectation-based comprehension
+
 This implements the Surprisal model of:
 
 Venhuizen, N. J., Crocker, M. W., and Brouwer, H. (2019). Expectation-based

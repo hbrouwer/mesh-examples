@@ -1,3 +1,5 @@
+# Learning the English past tense
+
 This example is implements the English Past Tense network of Plunkett and
 Marchman (1991), as discussed in chapter 9 of:
 
