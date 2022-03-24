@@ -1,0 +1,34 @@
+createNetwork or ffn
+
+set RandomSeed 1
+
+set LearningRate .1
+set Momentum 0
+
+createGroup input 2
+createGroup output 1
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc output logistic
+set ErrFunc output sum_of_squares
+
+attachBias output
+
+createProjection input output
+
+set BatchSize 1
+set MaxEpochs 1000
+%set MaxEpochs 10000
+set ReportAfter 100
+
+set ErrorThreshold 0
+
+loadSet data or.set
+
+set TrainingOrder randomized
+
+init
+
+togglePrettyPrinting

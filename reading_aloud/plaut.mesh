@@ -1,0 +1,41 @@
+createNetwork plaut ffn
+
+set RandomMin -0.1
+set RandomMax +0.1
+
+set RandomSeed 5
+
+set LearningRate 0.1
+set Momentum 0.9
+set WeightDecay 0.0001
+
+set ZeroErrorRadius .05
+set UpdateAlgorithm bounded
+
+createGroup input 105
+createGroup hidden 100
+createGroup output 61
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc hidden logistic
+set ActFunc output logistic
+set ErrFunc output cross_entropy
+
+attachBias hidden
+attachBias output
+
+createProjection input hidden
+createProjection hidden output
+
+set ErrorThreshold 0
+
+loadSet test plaut_test.set
+loadSet train plaut_train.set
+
+set TrainingOrder ordered
+set MaxEpochs 300
+set ReportAfter 10
+
+init

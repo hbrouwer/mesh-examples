@@ -1,0 +1,53 @@
+BeginItem
+Name "b"
+Meta "a"
+Input 1 1 0 0 Target 0 1 0 0
+EndItem
+
+BeginItem
+Name "a"
+Meta "d"
+Input 0 1 0 0 Target 1 0 1 0
+EndItem
+
+BeginItem
+Name "d"
+Meta "i"
+Input 1 0 1 0 Target 0 0 1 0
+EndItem
+
+BeginItem
+Name "i"
+Meta "i"
+Input 0 0 1 0 Target 0 0 1 0
+EndItem
+
+BeginItem
+Name "i"
+Meta "g"
+Input 0 0 1 0 Target 1 0 0 1
+EndItem
+
+BeginItem
+Name "g"
+Meta "u"
+Input 1 0 0 1 Target 0 0 0 1
+EndItem
+
+BeginItem
+Name "u"
+Meta "u"
+Input 0 0 0 1 Target 0 0 0 1
+EndItem
+
+BeginItem
+Name "u"
+Meta "u"
+Input 0 0 0 1 Target 0 0 0 1
+EndItem
+
+BeginItem
+Name "u"
+Meta "b"
+Input 0 0 0 1 Target 1 1 0 0
+EndItem

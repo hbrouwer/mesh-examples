@@ -1,0 +1,45 @@
+createNetwork venhuizen srn
+
+## randomization
+set RandomAlgorithm range
+set RandomSeed 13092013
+set RandomMin -.5
+set RandomMax +.5
+
+set LearningAlgorithm bp
+set UpdateAlgorithm bounded
+
+set ReportAfter 1
+
+## topology
+
+createGroup input 21
+set ActFunc input binary_sigmoid
+
+createGroup hidden 100
+attachBias hidden
+set ActFunc hidden binary_sigmoid
+
+createGroup hidden_context 100
+set ActFunc hidden_context binary_sigmoid
+
+createGroup output 150
+attachBias output
+set ActFunc output binary_sigmoid
+set ErrFunc output sum_squares
+
+createProjection input hidden
+createProjection hidden output
+
+createElmanProjection hidden hidden_context
+createProjection hidden_context hidden
+
+set InputGroup input
+set OutputGroup output
+
+loadLegacySet events venhuizen_events.set
+loadLegacySet train venhuizen_train.set
+
+init
+
+loadWeights venhuizen.weights

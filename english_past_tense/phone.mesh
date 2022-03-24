@@ -1,0 +1,41 @@
+createNetwork phone ffn
+
+set RandomSeed 5
+
+set LearningRate 0.3
+set Momentum 0.8
+
+set ZeroErrorRadius .05
+set UpdateAlgorithm bounded
+
+createGroup input 20
+createGroup hidden 30
+createGroup output 20
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc hidden logistic
+set ActFunc output logistic
+set ErrFunc output sum_of_squares
+
+attachBias hidden
+attachBias output
+
+createProjection input hidden
+createProjection hidden output
+
+#set BatchSize 1
+set MaxEpochs 50
+set ReportAfter 10
+
+set ErrorThreshold 0
+
+loadSet test phone_test.set
+loadSet train phone_train.set
+
+set TrainingOrder randomized
+
+init
+
+%togglePrettyPrinting

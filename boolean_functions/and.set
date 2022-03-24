@@ -1,0 +1,23 @@
+BeginItem
+Name "0 & 0"
+Meta "F & F"
+Input 0 0 Target 0
+EndItem
+
+BeginItem
+Name "1 & 0"
+Meta "T & F"
+Input 1 0 Target 0
+EndItem
+
+BeginItem
+Name "0 & 1"
+Meta "F & T"
+Input 0 1 Target 0
+EndItem
+
+BeginItem
+Name "1 & 1"
+Meta "T & T"
+Input 1 1 Target 1
+EndItem

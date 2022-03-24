@@ -1,0 +1,1265 @@
+BeginItem
+Name "d r * W"
+Meta "d r * ?"
+Input 0 1 1 1 1 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 Target 0 1 1 1 1 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "f l E W"
+Meta "f l E ?"
+Input 0 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 0 Target 0 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "s m I W"
+Meta "s m I ?"
+Input 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 0 0 0 0 0 Target 0 0 1 0 0 1 0 1 0 0 1 1 1 1 1 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "g l e W"
+Meta "g l e ?"
+Input 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0 1 0 0 0 Target 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "d r O W"
+Meta "d r O ?"
+Input 0 1 1 1 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 Target 0 1 1 1 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "T r A W"
+Meta "T r A ?"
+Input 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 1 0 0 0 Target 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "T r O W"
+Meta "T r O ?"
+Input 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0 Target 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t r E W"
+Meta "t r E ?"
+Input 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 1 0 0 Target 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "b l e W"
+Meta "b l e ?"
+Input 0 1 1 1 1 1 0 1 0 1 1 0 1 1 0 0 1 0 0 0 Target 0 1 1 1 1 1 0 1 0 1 1 0 1 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "t r I W"
+Meta "t r I ?"
+Input 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 Target 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "s t O W"
+Meta "s t O ?"
+Input 0 0 1 0 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 Target 0 0 1 0 0 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "d w O W"
+Meta "d w O ?"
+Input 0 1 1 1 1 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0 Target 0 1 1 1 1 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t w * W"
+Meta "t w * ?"
+Input 0 0 1 1 1 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 Target 0 0 1 1 1 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "d w e W"
+Meta "d w e ?"
+Input 0 1 1 1 1 0 0 1 0 1 1 1 1 1 0 0 1 0 0 0 Target 0 1 1 1 1 0 0 1 0 1 1 1 1 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "s l O W"
+Meta "s l O ?"
+Input 0 0 1 0 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 0 Target 0 0 1 0 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "T r U W"
+Meta "T r U ?"
+Input 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 0 1 0 0 Target 0 0 1 0 1 0 0 1 0 1 0 1 1 1 1 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "g w O W"
+Meta "g w O ?"
+Input 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0 Target 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "b l E W"
+Meta "b l E ?"
+Input 0 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 0 Target 0 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "k w A W"
+Meta "k w A ?"
+Input 0 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0 Target 0 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "s n O W"
+Meta "s n O ?"
+Input 0 0 1 0 0 1 0 1 0 0 1 0 1 1 1 0 1 1 0 0 Target 0 0 1 0 0 1 0 1 0 0 1 0 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t r U W"
+Meta "t r U ?"
+Input 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 0 1 0 0 Target 0 0 1 1 1 0 0 1 0 1 0 1 1 1 1 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "k l * W"
+Meta "k l * ?"
+Input 0 0 1 1 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 0 Target 0 0 1 1 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "p r O W"
+Meta "p r O ?"
+Input 0 0 1 1 1 1 0 1 0 1 0 1 1 1 1 0 1 1 0 0 Target 0 0 1 1 1 1 0 1 0 1 0 1 1 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "n * k W"
+Meta "n * k ?"
+Input 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 Target 0 1 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "k u f W"
+Meta "k u f ?"
+Input 0 0 1 1 0 0 1 1 0 0 0 1 0 0 1 0 1 1 0 0 Target 0 0 1 1 0 0 1 1 0 0 0 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "l * z W"
+Meta "l * z ?"
+Input 0 1 0 1 1 0 1 1 0 0 0 0 0 1 1 0 0 1 0 0 Target 0 1 0 1 1 0 1 1 0 0 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "p O s W"
+Meta "p O s ?"
+Input 0 0 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0 1 0 0 Target 0 0 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "y @ t W"
+Meta "y @ t ?"
+Input 0 1 0 1 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 Target 0 1 0 1 0 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "m * m W"
+Meta "m * m ?"
+Input 0 1 0 0 1 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0 Target 0 1 0 0 1 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "r * v W"
+Meta "r * v ?"
+Input 0 1 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0 Target 0 1 0 1 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "z O t W"
+Meta "z O t ?"
+Input 0 1 1 0 0 1 1 1 1 0 1 1 0 0 1 1 1 0 0 0 Target 0 1 1 0 0 1 1 1 1 0 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "r A z W"
+Meta "r A z ?"
+Input 0 1 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0 Target 0 1 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "w I r W"
+Meta "w I r ?"
+Input 0 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 Target 0 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "g i g W"
+Meta "g i g ?"
+Input 0 1 1 1 0 0 1 1 0 0 1 1 0 1 1 1 0 0 0 0 Target 0 1 1 1 0 0 1 1 0 0 1 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "m u p W"
+Meta "m u p ?"
+Input 0 1 0 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0 Target 0 1 0 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "m O g W"
+Meta "m O g ?"
+Input 0 1 0 0 1 1 1 1 1 0 1 1 0 1 1 1 0 0 0 0 Target 0 1 0 0 1 1 1 1 1 0 1 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "t * f W"
+Meta "t * f ?"
+Input 0 0 1 1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0 Target 0 0 1 1 1 0 1 1 0 0 0 0 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "m i b W"
+Meta "m i b ?"
+Input 0 1 0 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 0 0 Target 0 1 0 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "r * s W"
+Meta "r * s ?"
+Input 0 1 0 1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0 Target 0 1 0 1 0 1 1 1 0 0 0 0 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "T e b W"
+Meta "T e b ?"
+Input 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 0 Target 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "b I l W"
+Meta "b I l ?"
+Input 0 1 1 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 1 1 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "p I G W"
+Meta "p I G ?"
+Input 0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 Target 0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "h i z W"
+Meta "h i z ?"
+Input 0 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0 Target 0 0 0 1 0 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "f # g W"
+Meta "f # g ?"
+Input 0 0 1 0 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0 Target 0 0 1 0 1 1 1 1 1 1 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "p i s W"
+Meta "p i s ?"
+Input 0 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0 1 0 0 Target 0 0 1 1 1 1 1 1 0 0 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "f A n W"
+Meta "f A n ?"
+Input 0 0 1 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0 0 0 Target 0 0 1 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "b * v W"
+Meta "b * v ?"
+Input 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0 Target 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "g * d W"
+Meta "g * d ?"
+Input 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 0 Target 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "H U l W"
+Meta "H U l ?"
+Input 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 1 1 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "n I y W"
+Meta "n I y ?"
+Input 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0 Target 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "b e r W"
+Meta "b e r ?"
+Input 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0 1 0 1 0 0 Target 0 1 1 1 1 1 1 1 0 0 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "H E g W"
+Meta "H E g ?"
+Input 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 0 Target 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "d A m W"
+Meta "d A m ?"
+Input 0 1 1 1 1 0 1 1 1 1 1 0 0 1 0 0 1 1 0 0 Target 0 1 1 1 1 0 1 1 1 1 1 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "h I f W"
+Meta "h I f ?"
+Input 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 0 Target 0 0 0 1 0 0 1 1 1 0 0 0 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "z u k W"
+Meta "z u k ?"
+Input 0 1 1 0 0 1 1 1 0 0 0 1 0 0 1 1 0 0 0 0 Target 0 1 1 0 0 1 1 1 0 0 0 1 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "m O f W"
+Meta "m O f ?"
+Input 0 1 0 0 1 1 1 1 1 0 1 1 0 0 1 0 1 1 0 0 Target 0 1 0 0 1 1 1 1 1 0 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "s i t W"
+Meta "s i t ?"
+Input 0 0 1 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 0 0 Target 0 0 1 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "l O l W"
+Meta "l O l ?"
+Input 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 0 0 Target 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "n I z W"
+Meta "n I z ?"
+Input 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0 Target 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "f u p W"
+Meta "f u p ?"
+Input 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0 Target 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "k # l W"
+Meta "k # l ?"
+Input 0 0 1 1 0 0 1 1 1 1 0 0 0 1 0 1 1 0 0 0 Target 0 0 1 1 0 0 1 1 1 1 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "p E m W"
+Meta "p E m ?"
+Input 0 0 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0 Target 0 0 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "H u d W"
+Meta "H u d ?"
+Input 0 1 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 Target 0 1 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "H i s W"
+Meta "H i s ?"
+Input 0 1 1 0 1 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0 Target 0 1 1 0 1 0 1 1 0 0 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "n E t W"
+Meta "n E t ?"
+Input 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "l I z W"
+Meta "l I z ?"
+Input 0 1 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0 Target 0 1 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "p E g W"
+Meta "p E g ?"
+Input 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 0 Target 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "H * p W"
+Meta "H * p ?"
+Input 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 Target 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "g e t W"
+Meta "g e t ?"
+Input 0 1 1 1 0 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0 Target 0 1 1 1 0 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "f i b W"
+Meta "f i b ?"
+Input 0 0 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 0 0 Target 0 0 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "d I n W"
+Meta "d I n ?"
+Input 0 1 1 1 1 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 Target 0 1 1 1 1 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "n I s W"
+Meta "n I s ?"
+Input 0 1 0 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 Target 0 1 0 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "h ^ n W"
+Meta "h ^ n ?"
+Input 0 0 0 1 0 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0 Target 0 0 0 1 0 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "g # v W"
+Meta "g # v ?"
+Input 0 1 1 1 0 0 1 1 1 1 0 0 0 1 1 0 1 1 0 0 Target 0 1 1 1 0 0 1 1 1 1 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "r O v W"
+Meta "r O v ?"
+Input 0 1 0 1 0 1 1 1 1 0 1 1 0 1 1 0 1 1 0 0 Target 0 1 0 1 0 1 1 1 1 0 1 1 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "T i d W"
+Meta "T i d ?"
+Input 0 0 1 0 1 0 1 1 0 0 1 1 0 1 1 1 1 0 0 0 Target 0 0 1 0 1 0 1 1 0 0 1 1 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "h ^ k W"
+Meta "h ^ k ?"
+Input 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0 Target 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "k A G W"
+Meta "k A G ?"
+Input 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 Target 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "s e n W"
+Meta "s e n ?"
+Input 0 0 1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 0 0 0 Target 0 0 1 0 0 1 1 1 0 0 1 0 0 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "b U m W"
+Meta "b U m ?"
+Input 0 1 1 1 1 1 1 1 1 1 0 1 0 1 0 0 1 1 0 0 Target 0 1 1 1 1 1 1 1 1 1 0 1 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "H * b W"
+Meta "H * b ?"
+Input 0 1 1 0 1 0 1 1 0 0 0 0 0 1 1 1 1 1 0 0 Target 0 1 1 0 1 0 1 1 0 0 0 0 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "s # G W"
+Meta "s # G ?"
+Input 0 0 1 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 Target 0 0 1 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "r U G W"
+Meta "r U G ?"
+Input 0 1 0 1 0 1 1 1 1 1 0 1 0 1 0 0 0 0 0 0 Target 0 1 0 1 0 1 1 1 1 1 0 1 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "s @ v W"
+Meta "s @ v ?"
+Input 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1 1 0 0 Target 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "y e k W"
+Meta "y e k ?"
+Input 0 1 0 1 0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 Target 0 1 0 1 0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "y e r W"
+Meta "y e r ?"
+Input 0 1 0 1 0 0 1 1 0 0 1 0 0 1 0 1 0 1 0 0 Target 0 1 0 1 0 0 1 1 0 0 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "p u p W"
+Meta "p u p ?"
+Input 0 0 1 1 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0 Target 0 0 1 1 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "h # m W"
+Meta "h # m ?"
+Input 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 0 1 1 0 0 Target 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "H E z W"
+Meta "H E z ?"
+Input 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0 Target 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "h O d W"
+Meta "h O d ?"
+Input 0 0 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 Target 0 0 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "v @ G W"
+Meta "v @ G ?"
+Input 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 Target 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "k e t W"
+Meta "k e t ?"
+Input 0 0 1 1 0 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0 Target 0 0 1 1 0 0 1 1 0 0 1 0 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "v @ l W"
+Meta "v @ l ?"
+Input 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0 0 Target 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "f * v W"
+Meta "f * v ?"
+Input 0 0 1 0 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0 Target 0 0 1 0 1 1 1 1 0 0 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "r @ z W"
+Meta "r @ z ?"
+Input 0 1 0 1 0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 0 Target 0 1 0 1 0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "v O b W"
+Meta "v O b ?"
+Input 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0 Target 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "z U w W"
+Meta "z U w ?"
+Input 0 1 1 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0 Target 0 1 1 0 0 1 1 1 1 1 0 1 0 1 0 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "d E f W"
+Meta "d E f ?"
+Input 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0 Target 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t e d W"
+Meta "t e d ?"
+Input 0 0 1 1 1 0 1 1 0 0 1 0 0 1 1 1 1 0 0 0 Target 0 0 1 1 1 0 1 1 0 0 1 0 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "l A n W"
+Meta "l A n ?"
+Input 0 1 0 1 1 0 1 1 1 1 1 0 0 1 0 0 1 0 0 0 Target 0 1 0 1 1 0 1 1 1 1 1 0 0 1 0 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "H A t W"
+Meta "H A t ?"
+Input 0 1 1 0 1 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0 Target 0 1 1 0 1 0 1 1 1 1 1 0 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "T E t W"
+Meta "T E t ?"
+Input 0 0 1 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 0 1 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "T ^ z W"
+Meta "T ^ z ?"
+Input 0 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 0 1 0 0 Target 0 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "t I g W"
+Meta "t I g ?"
+Input 0 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 0 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "y i p W"
+Meta "y i p ?"
+Input 0 1 0 1 0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0 Target 0 1 0 1 0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "n U f W"
+Meta "n U f ?"
+Input 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 1 1 0 0 Target 0 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "r * m W"
+Meta "r * m ?"
+Input 0 1 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0 Target 0 1 0 1 0 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "l i k W"
+Meta "l i k ?"
+Input 0 1 0 1 1 0 1 1 0 0 1 1 0 0 1 1 0 0 0 0 Target 0 1 0 1 1 0 1 1 0 0 1 1 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "d i G W"
+Meta "d i G ?"
+Input 0 1 1 1 1 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0 Target 0 1 1 1 1 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "v U t W"
+Meta "v U t ?"
+Input 0 1 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0 Target 0 1 1 0 1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "t * b W"
+Meta "t * b ?"
+Input 0 0 1 1 1 0 1 1 0 0 0 0 0 1 1 1 1 1 0 0 Target 0 0 1 1 1 0 1 1 0 0 0 0 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "h u d W"
+Meta "h u d ?"
+Input 0 0 0 1 0 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 Target 0 0 0 1 0 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "g @ s W"
+Meta "g @ s ?"
+Input 0 1 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0 1 0 0 Target 0 1 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "t i g W"
+Meta "t i g ?"
+Input 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 0 Target 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "d U g W"
+Meta "d U g ?"
+Input 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 0 0 0 0 Target 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "H ^ t W"
+Meta "H ^ t ?"
+Input 0 1 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 0 0 Target 0 1 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "z ^ s W"
+Meta "z ^ s ?"
+Input 0 1 1 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 0 0 Target 0 1 1 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "y E k W"
+Meta "y E k ?"
+Input 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 1 0 0 0 0 Target 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "f e G W"
+Meta "f e G ?"
+Input 0 0 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 Target 0 0 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "r U l W"
+Meta "r U l ?"
+Input 0 1 0 1 0 1 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 1 0 1 0 1 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "y @ m W"
+Meta "y @ m ?"
+Input 0 1 0 1 0 0 1 1 0 1 0 0 0 1 0 0 1 1 0 0 Target 0 1 0 1 0 0 1 1 0 1 0 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "k A r W"
+Meta "k A r ?"
+Input 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0 Target 0 0 1 1 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "g E z W"
+Meta "g E z ?"
+Input 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0 Target 0 1 1 1 0 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "z u v W"
+Meta "z u v ?"
+Input 0 1 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0 Target 0 1 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t i z W"
+Meta "t i z ?"
+Input 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0 Target 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "t A l W"
+Meta "t A l ?"
+Input 0 0 1 1 1 0 1 1 1 1 1 0 0 1 0 1 1 0 0 0 Target 0 0 1 1 1 0 1 1 1 1 1 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "y O d W"
+Meta "y O d ?"
+Input 0 1 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 Target 0 1 0 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "s E m W"
+Meta "s E m ?"
+Input 0 0 1 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0 Target 0 0 1 0 0 1 1 1 1 1 1 1 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "h u r W"
+Meta "h u r ?"
+Input 0 0 0 1 0 0 1 1 0 0 0 1 0 1 0 1 0 1 0 0 Target 0 0 0 1 0 0 1 1 0 0 0 1 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "d E G W"
+Meta "d E G ?"
+Input 0 1 1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 Target 0 1 1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "k O f W"
+Meta "k O f ?"
+Input 0 0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 1 0 0 Target 0 0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "m ^ z W"
+Meta "m ^ z ?"
+Input 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 0 Target 0 1 0 0 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "g * w W"
+Meta "g * w ?"
+Input 0 1 1 1 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 Target 0 1 1 1 0 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "v ^ r W"
+Meta "v ^ r ?"
+Input 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 1 0 1 0 0 Target 0 1 1 0 1 1 1 1 0 1 1 1 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "h # r W"
+Meta "h # r ?"
+Input 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 1 0 1 0 0 Target 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "r # k W"
+Meta "r # k ?"
+Input 0 1 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 Target 0 1 0 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "d U b W"
+Meta "d U b ?"
+Input 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 0 Target 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "g O f W"
+Meta "g O f ?"
+Input 0 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 1 0 0 Target 0 1 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "l # f W"
+Meta "l # f ?"
+Input 0 1 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 1 0 0 Target 0 1 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "z u l W"
+Meta "z u l ?"
+Input 0 1 1 0 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 Target 0 1 1 0 0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "s u v W"
+Meta "s u v ?"
+Input 0 0 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0 Target 0 0 1 0 0 1 1 1 0 0 0 1 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "T U y W"
+Meta "T U y ?"
+Input 0 0 1 0 1 0 1 1 1 1 0 1 0 1 0 1 0 0 0 0 Target 0 0 1 0 1 0 1 1 1 1 0 1 0 1 0 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "y u g W"
+Meta "y u g ?"
+Input 0 1 0 1 0 0 1 1 0 0 0 1 0 1 1 1 0 0 0 0 Target 0 1 0 1 0 0 1 1 0 0 0 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "l * m W"
+Meta "l * m ?"
+Input 0 1 0 1 1 0 1 1 0 0 0 0 0 1 0 0 1 1 0 0 Target 0 1 0 1 1 0 1 1 0 0 0 0 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t e G W"
+Meta "t e G ?"
+Input 0 0 1 1 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 Target 0 0 1 1 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "l U w W"
+Meta "l U w ?"
+Input 0 1 0 1 1 0 1 1 1 1 0 1 0 1 0 1 1 1 0 0 Target 0 1 0 1 1 0 1 1 1 1 0 1 0 1 0 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "g E l W"
+Meta "g E l ?"
+Input 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 1 1 0 0 0 Target 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "r e r W"
+Meta "r e r ?"
+Input 0 1 0 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 0 Target 0 1 0 1 0 1 1 1 0 0 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "y ^ v W"
+Meta "y ^ v ?"
+Input 0 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 1 1 0 0 Target 0 1 0 1 0 0 1 1 0 1 1 1 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "t @ G W"
+Meta "t @ G ?"
+Input 0 0 1 1 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 Target 0 0 1 1 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0
+EndItem
+
+BeginItem
+Name "d # v W"
+Meta "d # v ?"
+Input 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 1 1 0 0 Target 0 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "d e z W"
+Meta "d e z ?"
+Input 0 1 1 1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 0 Target 0 1 1 1 1 0 1 1 0 0 1 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "g I g W"
+Meta "g I g ?"
+Input 0 1 1 1 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 1 1 1 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "d i p W"
+Meta "d i p ?"
+Input 0 1 1 1 1 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0 Target 0 1 1 1 1 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "H @ z W"
+Meta "H @ z ?"
+Input 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 0 0 1 0 0 Target 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "h ^ f W"
+Meta "h ^ f ?"
+Input 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 0 1 1 0 0 Target 0 0 0 1 0 0 1 1 0 1 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "r u s W"
+Meta "r u s ?"
+Input 0 1 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 0 0 Target 0 1 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "f u f W"
+Meta "f u f ?"
+Input 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 0 0 Target 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "w @ l W"
+Meta "w @ l ?"
+Input 0 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0 0 Target 0 1 0 1 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "b E t W"
+Meta "b E t ?"
+Input 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "m A p W"
+Meta "m A p ?"
+Input 0 1 0 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1 0 0 Target 0 1 0 0 1 1 1 1 1 1 1 0 0 0 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "l E s W"
+Meta "l E s ?"
+Input 0 1 0 1 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 0 Target 0 1 0 1 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "i f t W"
+Meta "i f t ?"
+Input 1 1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0 Target 1 1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "E g z W"
+Meta "E g z ?"
+Input 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 0 0 1 0 0 Target 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "I l b W"
+Meta "I l b ?"
+Input 1 1 1 0 0 0 0 1 0 1 1 0 0 1 1 1 1 1 0 0 Target 1 1 1 0 0 0 0 1 0 1 1 0 0 1 1 1 1 1 0 0
+EndItem
+
+BeginItem
+Name "I s t W"
+Meta "I s t ?"
+Input 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 Target 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "U d z W"
+Meta "U d z ?"
+Input 1 1 1 1 0 1 0 1 1 1 1 0 0 1 1 0 0 1 0 0 Target 1 1 1 1 0 1 0 1 1 1 1 0 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "u l f W"
+Meta "u l f ?"
+Input 1 1 0 0 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 0 Target 1 1 0 0 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "# n k W"
+Meta "# n k ?"
+Input 1 1 1 1 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 Target 1 1 1 1 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "U f s W"
+Meta "U f s ?"
+Input 1 1 1 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 0 Target 1 1 1 1 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "O l t W"
+Meta "O l t ?"
+Input 1 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 0 Target 1 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "O f T W"
+Meta "O f T ?"
+Input 1 1 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0 0 0 Target 1 1 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0 0 0
+EndItem
+
+BeginItem
+Name "n I g W"
+Meta "n I g ?"
+Input 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 1 0 0 1 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "n E m W"
+Meta "n E m ?"
+Input 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 0 1 1 0 0 Target 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "I s k W"
+Meta "I s k ?"
+Input 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 0 0 Target 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "r A r W"
+Meta "r A r ?"
+Input 0 1 0 1 0 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0 Target 0 1 0 1 0 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "z E z W"
+Meta "z E z ?"
+Input 0 1 1 0 0 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0 Target 0 1 1 0 0 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "r E t W"
+Meta "r E t ?"
+Input 0 1 0 1 0 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 1 0 1 0 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "b U s W"
+Meta "b U s ?"
+Input 0 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 0 Target 0 1 1 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "E z g W"
+Meta "E z g ?"
+Input 1 1 1 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 0 Target 1 1 1 1 1 1 0 1 1 0 0 1 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "r I g W"
+Meta "r I g ?"
+Input 0 1 0 1 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 1 0 1 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "g I l W"
+Meta "g I l ?"
+Input 0 1 1 1 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 1 1 1 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "l U s W"
+Meta "l U s ?"
+Input 0 1 0 1 1 0 1 1 1 1 0 1 0 0 1 0 0 1 0 0 Target 0 1 0 1 1 0 1 1 1 1 0 1 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "t E z W"
+Meta "t E z ?"
+Input 0 0 1 1 1 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0 Target 0 0 1 1 1 0 1 1 1 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "T U l W"
+Meta "T U l ?"
+Input 0 0 1 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 0 1 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "t E t W"
+Meta "t E t ?"
+Input 0 0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 0 1 1 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "A r t W"
+Meta "A r t ?"
+Input 1 1 1 1 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 Target 1 1 1 1 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "b A r W"
+Meta "b A r ?"
+Input 0 1 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0 Target 0 1 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "r O f W"
+Meta "r O f ?"
+Input 0 1 0 1 0 1 1 1 1 0 1 1 0 0 1 0 1 1 0 0 Target 0 1 0 1 0 1 1 1 1 0 1 1 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "z I g W"
+Meta "z I g ?"
+Input 0 1 1 0 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 1 1 0 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "p E z W"
+Meta "p E z ?"
+Input 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0 Target 0 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "h E t W"
+Meta "h E t ?"
+Input 0 0 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0 Target 0 0 0 1 0 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "U l f W"
+Meta "U l f ?"
+Input 1 1 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 0 Target 1 1 1 1 0 1 0 1 0 1 1 0 0 0 1 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "f I l W"
+Meta "f I l ?"
+Input 0 0 1 0 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 0 1 0 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "U l d W"
+Meta "U l d ?"
+Input 1 1 1 1 0 1 0 1 0 1 1 0 0 1 1 1 1 0 0 0 Target 1 1 1 1 0 1 0 1 0 1 1 0 0 1 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "n I l W"
+Meta "n I l ?"
+Input 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "f U l W"
+Meta "f U l ?"
+Input 0 0 1 0 1 1 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 0 1 0 1 1 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "n e r W"
+Meta "n e r ?"
+Input 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 1 0 1 0 0 Target 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "p I g W"
+Meta "p I g ?"
+Input 0 0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 Target 0 0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0
+EndItem
+
+BeginItem
+Name "w I l W"
+Meta "w I l ?"
+Input 0 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "E m t W"
+Meta "E m t ?"
+Input 1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 1 1 0 0 0 Target 1 1 1 1 1 1 0 1 0 0 1 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "r I s W"
+Meta "r I s ?"
+Input 0 1 0 1 0 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0 Target 0 1 0 1 0 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "g A r W"
+Meta "g A r ?"
+Input 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0 Target 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "w I s W"
+Meta "w I s ?"
+Input 0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0 Target 0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0
+EndItem
+
+BeginItem
+Name "t U l W"
+Meta "t U l ?"
+Input 0 0 1 1 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 0 1 1 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "p I l W"
+Meta "p I l ?"
+Input 0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 Target 0 0 1 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "g E m W"
+Meta "g E m ?"
+Input 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 0 Target 0 1 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 0
+EndItem
+
+BeginItem
+Name "e r t W"
+Meta "e r t ?"
+Input 1 1 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 Target 1 1 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "p A r W"
+Meta "p A r ?"
+Input 0 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0 Target 0 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 1 0 0
+EndItem
+
+BeginItem
+Name "d U l W"
+Meta "d U l ?"
+Input 0 1 1 1 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 Target 0 1 1 1 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0
+EndItem
+
+BeginItem
+Name "e r s W"
+Meta "e r s ?"
+Input 1 1 0 0 1 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 Target 1 1 0 0 1 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0
+EndItem

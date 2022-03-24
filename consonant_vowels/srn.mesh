@@ -1,0 +1,43 @@
+createNetwork srn srn
+
+set RandomSeed 5
+
+set LearningRate 0.1
+set Momentum 0.3
+
+createGroup input 4
+createGroup hidden 10
+createGroup output 4
+createGroup context 10
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc hidden logistic
+set ActFunc output logistic
+set ErrFunc output sum_of_squares
+
+attachBias hidden
+attachBias output
+
+createProjection input hidden
+createProjection context hidden
+createElmanProjection hidden context
+createProjection hidden output
+
+set BatchSize 1
+set MaxEpochs 70000
+set ReportAfter 1000
+
+set ErrorThreshold 0
+
+loadSet test srn_test.set
+loadSet train srn_train.set
+
+set TrainingOrder ordered
+
+init
+
+toggleResetContexts
+
+%togglePrettyPrinting
