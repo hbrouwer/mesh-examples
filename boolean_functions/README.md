@@ -13,7 +13,7 @@ functions: **AND**, **OR**, and **XOR**:
 |   0   |   0   |   0   |   0   |   0   |
 |   0   |   1   |   0   |   1   |   1   |
 |   1   |   0   |   0   |   1   |   1   |
-|   1   |   1   |   1   |   1   |   1   |
+|   1   |   1   |   1   |   1   |   0   |
 
 ## Two-layer networks
 
@@ -32,22 +32,22 @@ Root Mean Square (RMS) error:    0.266748
 ```
 
 Note that the error function that is minimized is the sum of squares
-function defined as: `1/2 sum_j (y_j - d_j) ^ 2`  
+function defined as: `1/2 sum_j (y_j - d_j) ^ 2`.
 
-You can now examine the output for each of the training items (use `items`
-to list all items) using the `testItem` command. Has the network
-successfully learned the \textsc{AND} function? What was your criterion for
-this decision?
+You can now examine the output for each of the training items. Use `items`
+to list all items, and use the `testItem` command to inspect individual
+examples (by name or number). Has the network successfully learned the
+**AND** function? What was your criterion for this decision?
 
 Assume the following success criterion: activation `>0.6` corresponds to
 `1`, and activation `<0.4` corresponds to `0`. We can factor this criterion
-into the error function by typing `set ZeroErrorRadius 0.4'. Retrain the
-network (type `init` followed by `train`), and inspect the global and
-by-item error. Has the network learned the \textsc{AND} function in
-accordance with the success criterion? Now try again with `set
-ZeroErrorRadius 0.1'. Do the global and by-item error make sense? Has the
-network learned the function in accordance with the criterion? Type `set
-MaxEpochs 10000`, and retrain the network. How about now?
+into the error function by typing `set ZeroErrorRadius 0.4`. Retrain the
+network by typing `init` (which will reinitialize the weights) followed by
+`train`, and inspect the global and by-item error. Has the network learned
+the **AND** function in accordance with the success criterion? Now try again
+with `set ZeroErrorRadius 0.1`. Do the global and by-item error make sense?
+Has the network learned the function in accordance with the criterion? Type
+`set MaxEpochs 10000`, and retrain the network. How about now?
 
 ### Learning OR
 
@@ -60,8 +60,8 @@ affect the network's performance?
 
 The file `xor_2layers.mesh` specifies a network for the **XOR** function.
 Try training this network using varying parameters and numbers of epochs.
-Also, try varying the random seed using the `set RandomSeed <val>` command.
-Can you make the network learn the **XOR** function?
+Also, try varying the random seed using the `set RandomSeed <value>`
+command. Can you make the network learn the **XOR** function? Why not?
 
 ## Three-layer networks
 
@@ -70,10 +70,9 @@ network succeed in learning the **XOR** function? Can you tell this from the
 global error?
 
 Store the weights using `saveWeights weights.txt` and record the hidden
-units using `recordUnits hidden hidden.txt`. Now draw an image of the
-network's topology and solution by studying the resultant `.txt` files. Do
-you understand why it works? (do not forget about the bias units!) What do
-the hidden units encode?
+units using `recordUnits hidden hidden.txt`. Now study the resultant `.txt`
+files. Do you understand why it works? Note: do not forget about the bias
+units! What do the hidden units encode?
 
 Alter `xor_3layers.mesh` such that the hidden layer contains `5` units.
 Train this model, save the weights and record the hidden units. How does the

@@ -42,17 +42,17 @@ other) parameters?
 ## Analysis of network performance
 
 Examine and report the performance of the network on irregular verbs. In the
-training data, the first `2` items are arbitrary past tense forms, then come
+training data, the first two items are arbitrary past tense forms, then come
 `410` regular, `20` no-change, and `68` vowel change verbs. Why does the
 network have difficulty learning irregular verbs? Study the output
 representations the model produces for irregulars. What is it doing?
 
-Compare the performance of the network on regulars vs irregulars. Can you
-identify any systematicity in the errors that the network makes
+Compare the performance of the network on regulars versus irregulars. Can
+you identify any systematicity in the errors that the network makes?
 
-The set `test' contains `211` verb stems that the network has not been
-trained on. Make this set the active set using the `changeSet test' command,
-and examine and report how well the model generalizes to unseen data.
+The set `test` contains `211` verb stems that the network has not been
+trained on. Make this set the active set using the `changeSet test` command,
+and examine how well the model generalizes to unseen data.
 
 Increase the token frequency of the arbitrary verbs in the `phone_train.set`
 file (by copying the first two item blocks a number of times). Why should an

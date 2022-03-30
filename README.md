@@ -6,11 +6,11 @@ Example networks for the [Mesh](https://github.com/hbrouwer/mesh) neural network
   These examples are taken from chapter 3 of Plunkett and Elman (1997);
 
 * [reading_aloud](https://github.com/hbrouwer/mesh-examples/tree/main/reading_aloud):
-  This example is implements the Reading Aloud network of Plaut et al.
-  (1996), as discussed in chapter 8 of McLeod et al. (1998);
+  This example implements the Reading Aloud network of Plaut et al. (1996),
+  as discussed in chapter 8 of McLeod et al. (1998);
     
 * [english_past_tense](https://github.com/hbrouwer/mesh-examples/tree/main/english_past_tense):
-  This example is implements the English Past Tense network of Plunkett and
+  This example implements the English Past Tense network of Plunkett and
   Marchman (1991), as discussed in chapter 9 of McLeod et al. (1998);
 
 * [consonant_vowels](https://github.com/hbrouwer/mesh-examples/tree/main/consonant_vowels):
@@ -19,7 +19,7 @@ Example networks for the [Mesh](https://github.com/hbrouwer/mesh) neural network
 * [expectation_comprehension](https://github.com/hbrouwer/mesh-examples/tree/main/expectation_comprehension):
   This implements the surprisal model of Venhuizen et al. (2019).
  
-## References
+# References
 
 McLeod, P., Plunkett, K. and Rolls, E. T. (1998). Introduction to
 Connectionist Modelling of Cognitive Processes. Oxford University Press.

@@ -13,7 +13,7 @@ Load the model by typing `mesh venhuizen.mesh`, and explore it using the
 commands: `groups`, `projections`, and `inspect`. Also take a look at the
 training sentences, their corresponding semantics, and the input-output
 vectors (using `items` and `showItem`). How are the input-target pairs for
-a single sentence are structured?
+a single sentence structured?
 
 This network is pre-trained. Examine its performance, using the commands
 `test` and `similarityStats`. As the output vectors of the model are DSS
@@ -22,8 +22,8 @@ by-item `comprehension(target,output)` score, using the command `dssTest`.
 Identify for which type of sentence the performance of the model is the
 worst. Can you think of why?
 
-Also, compare the sentence `dave paid (#41)` with `dave paid and ordered
-cola (#91)`. Can you explain the behavior of the model?
+Also, compare the sentence *"dave paid"* (#41) with *"dave paid and ordered
+cola"* (#91). Can you explain the behavior of the model?
 
 ## Inferencing
 
@@ -36,8 +36,8 @@ processing a given sentence.
 The command `dssScores` allows one to do this. It takes two arguments: a set
 of atomic propositions, and the name or number of a sentence in the active
 set. The set `events` contains the atomic propositions for the present DSS
-space. Hence, type `dssScores events "beth left"` or `dssScores events 43`.
-Do you understand what is shown in the revelant rows and columns?
+space. Type `dssScores events "beth left"` or `dssScores events 43`. Do you
+understand what is shown in the relevant rows and columns?
 
 The command `dssInferences` makes exploring inferencing a little less
 overwhelming (but also less awesome!). In addition to a set of atomic
@@ -49,16 +49,16 @@ takes a threshold value for the (absolute) comprehension scores:
 
 The command `dssWordInfo` takes two arguments, a set of sentences, and the
 name or number of a sentence in that set, e.g., `dssWordInfo train "dave
-paid"` or `dssWordInfo train 41`. This will output different offline
-syntactic and semantic Surprisal metrics, as well as the DSS-derived online
-metric of Surprisal, for each word in a sentence. The Surprisal metrics are
-prefixed with a capital `S'. The metrics prefixed with `DH' are the entropy
-reduction counterparts (see [Venhuizen, Crocker, Brouwer, 2019,
+paid"` or `dssWordInfo train 41`. This will output various offline syntactic
+and semantic Surprisal metrics, as well as the DSS-derived online metric of
+Surprisal, for each word in a sentence. The Surprisal metrics are prefixed
+with a capital `S`. The metrics prefixed with `DH` are the entropy reduction
+counterparts (see [Venhuizen, Crocker, Brouwer, 2019,
 *Entropy*](https://www.mdpi.com/1099-4300/21/12/1159)).
 
 Find a pair of sentences for which online Surprisal follows *linguistic
-experience*. Which contrast did you pick? Try to explain how the different
-Surprisal values arise.
+experience*. Which contrast did you pick? How do the different Surprisal
+values arise?
 
-Now find a pairs of sentences for which online Surprisal follows *world
-knowledge*. Again, try to explain how the different Surprisal values arise.
+Now find a pair of sentences for which online Surprisal follows *world
+knowledge*. Again, how do the Surprisal values arise?

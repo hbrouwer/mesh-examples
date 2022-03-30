@@ -10,9 +10,8 @@ over time, using Simple Recurrent Networks (SRNs).
 
 ## Understanding the network and its representations
 
-First, load `srn.mesh` in Mesh and use the commands `groups` and
-`projections` to study the architecture of the network. Verify that the
-network is an SRN.
+Load `srn.mesh` in Mesh and use the commands `groups` and `projections` to
+study the architecture of the network. Verify that the network is an SRN.
 
 The input and output representations of this model are 4-bit vectors:
 
@@ -36,7 +35,7 @@ structured. What does each item encode?
 
 Train the network with the default settings (`learning rate = 0.1`,
 `momentum = 0.3`, `epochs = 70000`; `batch size = 1`), and evaluate its
-performance using `test` and `similarityStats`. Why does the the error stays
+performance using `test` and `similarityStats`. Why does the the error stay
 relatively high? Note: take into account the development of the error over
 training.
 
@@ -51,12 +50,12 @@ sequence? Does it correctly predict the vowel following a consonant? Does it
 correctly predict the number of vowels?
 
 Does the network predict when a consonant will be the next item in the
-sequence? Explain why you think it has or has not.
+sequence? Why do you think it has or has not?
 
-We can now examine the networks solution through a cluster analysis. First,
-record the hidden unit activation patterns for each of the items (in the
-active `test` set) by typing `recordUnits hidden hidden.txt`. Now quit Mesh,
-start R, and type the following:
+Finally, we can examine the network's solution through a cluster analysis.
+First, record the hidden unit activation patterns for each of the items (in
+the active `test` set) by typing `recordUnits hidden hidden.txt`. Now quit
+Mesh, start R, and type the following:
 
 ```
 data <- read.csv("hidden.txt", head=T)
