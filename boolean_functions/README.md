@@ -8,14 +8,12 @@ A Handbook for Connectionist Simulations. MIT Press.
 This tutorial investigates the training of networks to learn the boolean
 functions: **AND**, **OR**, and **XOR**:
 
-
 |  IN1  |  IN2  |  AND  |   OR  |  XOR  |
 | :---: | :---: | :---: | :---: | :---: |
 |   0   |   0   |   0   |   0   |   0   |
 |   0   |   1   |   0   |   1   |   1   |
 |   1   |   0   |   0   |   1   |   1   |
 |   1   |   1   |   1   |   1   |   1   |
-
 
 ## Two-layer networks
 
@@ -34,7 +32,7 @@ Root Mean Square (RMS) error:    0.266748
 ```
 
 Note that the error function that is minimized is the sum of squares
-function defined as: `.5 sum_j (y_j - d_j) ^ 2`  
+function defined as: `1/2 sum_j (y_j - d_j) ^ 2`  
 
 You can now examine the output for each of the training items (use `items`
 to list all items) using the `testItem` command. Has the network
