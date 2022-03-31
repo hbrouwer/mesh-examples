@@ -1,0 +1,55 @@
+createNetwork plaut ffn
+
+set RandomMin -0.1
+set RandomMax +0.1
+
+set RandomSeed 10
+
+% approximate parameters used in the original simulation
+set LearningRate 0.001
+#set WeightDecay 0.001
+set Momentum 0.0
+set ZeroErrorRadius .05
+set UpdateAlgorithm steepest
+
+createGroup input 105
+createGroup hidden 100
+createGroup output 61
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc hidden logistic
+set ActFunc output logistic
+set ErrFunc output cross_entropy
+
+% zero flatspot correction to stabilize cross entropy error
+set LogisticFSC hidden 0
+set LogisticFSC output 0
+
+attachBias hidden
+attachBias output
+
+createProjection input hidden
+createProjection hidden output
+
+set ErrorThreshold 0
+
+loadSet test plaut_test.set
+loadSet train plaut_train.set
+
+init
+
+% first train 10 epochs without momentum
+set TrainingOrder ordered
+set MaxEpochs 10
+set ReportAfter 10
+
+train
+
+% now train 290 epochs with momentum
+set Momentum 0.9
+#set LearningRate 0.001
+set MaxEpochs 290
+
+train
