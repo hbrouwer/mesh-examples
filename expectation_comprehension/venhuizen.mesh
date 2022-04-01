@@ -14,14 +14,12 @@ set ReportAfter 1
 ## topology
 
 createGroup input 21
-set ActFunc input binary_sigmoid
 
 createGroup hidden 100
 attachBias hidden
 set ActFunc hidden binary_sigmoid
 
 createGroup hidden_context 100
-set ActFunc hidden_context binary_sigmoid
 
 createGroup output 150
 attachBias output
