@@ -1,6 +1,7 @@
 createNetwork venhuizen srn
 
 ## randomization
+
 set RandomAlgorithm range
 set RandomSeed 13092013
 set RandomMin -.5
