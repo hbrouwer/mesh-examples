@@ -64,4 +64,4 @@ rownames(mtx) <- paste(data$ItemId, data$ItemName, data$ItemMeta)
 str(as.dendrogram(hclust(dist(mtx))))
 ```
 
-What does the dendogram tell about the solution of the network?
+What does the dendrogram tell about the solution of the network?
