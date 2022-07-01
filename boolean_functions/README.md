@@ -8,7 +8,7 @@ A Handbook for Connectionist Simulations. MIT Press.
 This tutorial investigates the training of networks to learn the boolean
 functions: **AND**, **OR**, and **XOR**:
 
-|  IN1  |  IN2  |  AND  |   OR  |  XOR  |
+|  IN1  |  IN2  |  AND  |  OR   |  XOR  |
 | :---: | :---: | :---: | :---: | :---: |
 |   0   |   0   |   0   |   0   |   0   |
 |   0   |   1   |   0   |   1   |   1   |
