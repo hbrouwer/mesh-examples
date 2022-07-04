@@ -1,0 +1,28 @@
+createNetwork net_input ffn
+
+set LearningRate .1
+set Momentum 0
+
+createGroup input 2
+createGroup output 2
+
+set InputGroup input
+set OutputGroup output
+
+set ActFunc output linear
+set ErrFunc output sum_of_squares
+
+attachBias output
+
+createProjection input output
+
+set MaxEpochs 100
+set ReportAfter 10
+
+set ErrorThreshold 0
+
+loadSet data net_input.set
+
+init
+
+togglePrettyPrinting

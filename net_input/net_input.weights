@@ -1,0 +1,9 @@
+Projection output_bias output
+Dimensions 1 2
+0.000000 0.000000
+
+Projection input output
+Dimensions 2 2
+0.750000 0.250000
+0.500000 0.250000
+

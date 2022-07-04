@@ -1,0 +1,23 @@
+BeginItem
+Name "0 0"
+Meta "0 0 -> 0 0"
+Input 0 0 Target 0 0
+EndItem
+
+BeginItem
+Name "1 0"
+Meta "1 0 -> 1 1"
+Input 1 0 Target 1 1
+EndItem
+
+BeginItem
+Name "0 1"
+Meta "0 1 -> 1 1"
+Input 0 1 Target 1 1
+EndItem
+
+BeginItem
+Name "1 1"
+Meta "1 1 -> 2 2"
+Input 1 1 Target 2 2
+EndItem
