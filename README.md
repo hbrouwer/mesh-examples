@@ -2,6 +2,9 @@
 
 Example networks for the [Mesh](https://github.com/hbrouwer/mesh) neural network simulator:
 
+* [net_input](https://github.com/hbrouwer/mesh-examples/tree/main/net_input):
+  Simple activation propagation example;
+
 * [boolean_functions](https://github.com/hbrouwer/mesh-examples/tree/main/boolean_functions):
   These examples are taken from chapter 3 of Plunkett and Elman (1997);
 
@@ -16,8 +19,16 @@ Example networks for the [Mesh](https://github.com/hbrouwer/mesh) neural network
 * [consonant_vowels](https://github.com/hbrouwer/mesh-examples/tree/main/consonant_vowels):
   This example is taken from chapter 8 of Plunkett and Elman (1997);
 
+* [next_word_prediction](https://github.com/hbrouwer/mesh-examples/tree/main/next_word_prediction):
+  A simple next word prediction model trained on the sentences of Venhuizen
+  et al. (2019);
+
 * [expectation_comprehension](https://github.com/hbrouwer/mesh-examples/tree/main/expectation_comprehension):
-  This implements the surprisal model of Venhuizen et al. (2019).
+  This implements the comprehension model of Venhuizen et al. (2019);
+
+* [language_production](https://github.com/hbrouwer/mesh-examples/tree/main/language_production):
+  Exercise: Turn the comprehension model of Venhuizen et al. (2019) into
+  a model of production.
  
 # References
 
