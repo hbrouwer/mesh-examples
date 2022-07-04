@@ -1,0 +1,52 @@
+createNetwork next_word srn
+
+## randomization
+
+set RandomAlgorithm range
+set RandomSeed 13092013
+set RandomMin -.5
+set RandomMax +.5
+
+set LearningAlgorithm bp
+set UpdateAlgorithm bounded
+
+set ReportAfter 10
+
+## topology
+
+createGroup input 22
+
+createGroup hidden 50
+attachBias hidden
+set ActFunc hidden binary_sigmoid
+
+createGroup hidden_context 50
+
+createGroup output 22
+attachBias output
+set ActFunc output softmax
+set ErrFunc output cross_entropy
+
+createProjection input hidden
+createProjection hidden output
+
+createElmanProjection hidden hidden_context
+createProjection hidden_context hidden
+
+set InputGroup input
+set OutputGroup output
+
+loadLegacySet train next_word_train.set
+
+init
+
+## training
+
+set TrainingOrder permuted
+
+set BatchSize 237
+
+set Momentum 0.9
+set LearningRate 0.1
+
+set MaxEpochs 100
